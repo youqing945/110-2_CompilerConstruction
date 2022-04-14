@@ -1,4 +1,4 @@
-# 110-2_CompilerConstruction-
+# 110-2_CompilerConstruction
 Homework of 109-2 NCKU Compiler Construction.
 
 應該會先把原檔放上來
